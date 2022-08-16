@@ -1,9 +1,9 @@
-Name: Julio Cesar Ruiz Marks
-Registration-number: 2944793
-Professor: Abraham Alejandro Sosa Correa
-Degree: IDS
-Semester: 8th Semester
-Markdown-description: Is a lightweight markup language that is used to add formatting elements to plaintext text documents.
+Name: Julio Cesar Ruiz Marks  
+Registration-number: 2944793  
+Professor: Abraham Alejandro Sosa Correa  
+Degree: IDS  
+Semester: 8th Semester  
+Markdown-description: Is a lightweight markup language that is used to add formatting elements to plaintext text documents.  
 
 Markdown Tagging options:
 ==================
@@ -34,13 +34,12 @@ Using a double backtick at the beginning of a paragraph turns the text into a co
 Links are done by writing the text in brackets [] and the link inside of a parenthesis ()
 
 # Git 
-Check the status of a local repository.  Git status
-Add individual files or globally. git add 
-Add comments to the commit. git commit -m "<comment>"
-Upload your changes to the remote repository. git push origin branch
-Create, browse, and delete branches. 
-    Create: git checkout -b new-branch-name / git branch <branch-name>
-    Browse: git branch -a
-    delete: git -d branch-to-delete (local), git push origin -delete remote-branch-name
-
-Roll back a repository to a specific commit. : git reset git-id
+Check the status of a local repository.  Git status  
+Add individual files or globally. git add  
+Add comments to the commit. git commit -m "<comment>"  
+Upload your changes to the remote repository. git push origin branch  
+Create, browse, and delete branches.   
+    Create: git checkout -b new-branch-name / git branch <branch-name>  
+    Browse: git branch -a  
+    delete: git -d branch-to-delete (local), git push origin -delete remote-branch-name  
+Roll back a repository to a specific commit. : git reset git-id  
