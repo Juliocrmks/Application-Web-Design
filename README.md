@@ -36,10 +36,10 @@ Links are done by writing the text in brackets [] and the link inside of a paren
 # Git 
 Check the status of a local repository.  Git status  
 Add individual files or globally. git add  
-Add comments to the commit. git commit -m "<comment>"  
+Add comments to the commit. git commit -m "comment"  
 Upload your changes to the remote repository. git push origin branch  
 Create, browse, and delete branches.   
-    Create: git checkout -b new-branch-name / git branch <branch-name>  
+    Create: git checkout -b new-branch-name / git branch branch-name
     Browse: git branch -a  
     delete: git -d branch-to-delete (local), git push origin -delete remote-branch-name  
 Roll back a repository to a specific commit. : git reset git-id  
